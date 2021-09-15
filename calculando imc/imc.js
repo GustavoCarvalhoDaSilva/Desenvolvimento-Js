@@ -28,3 +28,7 @@ function somar(){
         Tome muito cuidado e culte um médico em imediatamente`
     } 
 }
+function resetar(){
+    let resultado = document.getElementById('txt')
+    resultado.innerHTML = ""
+}

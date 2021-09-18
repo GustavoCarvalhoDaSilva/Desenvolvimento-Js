@@ -11,7 +11,7 @@ Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini pr
     <td>
         <h3>00 - Lâmpada</h3>
         <li><a href="./00-imc/"> Código</a></li><br>
-        <a href="Desenvolvimento-Js/img/Lâmpada-.gif/"><img src="./img/Lâmpada-.gif" width="250px"></a>
+        <a href="https://github.com/GustavoCarvalhoDaSilva/Desenvolvimento-Js/blob/main/img/L%C3%A2mpada-.gif"><img src="./img/Lâmpada-.gif" width="250px"></a>
     </td>
   </tr>
   

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+*{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    background:  #2b2b2b;
+    color: #fff ;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+.horas{
+    font-size: 100px;
+    
+}
+.calendario{
+    font-size: 20px;
+    
+}
+.calendario, .horas{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.corpo{
+    border: 3px solid #4E148C;
+    border-radius: 10px;
+    padding: 20px;
+}
+.corpo:hover{
+    box-shadow: 0 0 20px 5px #4E148C;
+    transition: 0.5s;
+}

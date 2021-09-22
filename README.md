@@ -3,7 +3,7 @@
 
 Não tem outra maneira para se aprender além de praticar, praticar e praticar.
 
-Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini projetos em JavaScript para eu poder práticar e poder aprender ainda mais.
+Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini projetos em JavaScript para eu poder práticar e também aprender ainda mais.
 <p>espero que gostem 😊👨‍💻</p>
 
 <table border="2">

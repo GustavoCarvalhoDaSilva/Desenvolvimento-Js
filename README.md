@@ -18,6 +18,11 @@ Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini pr
         <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/002-Hor%C3%A1rio"> Código</a></li><br>
         <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Rel%C3%B3gio.gif"><img src="./img/Relógio.gif" width="250px"></a>
     </td>
+       <td>
+        <h3>02 - Cronômetro</h3>
+        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/cron%C3%B4metro"> Código</a></li><br>
+        <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Cron%C3%B4metro.gif"><img src="./img/Cronômetro.gif" width="250px"></a>
+    </td>
   </tr>
   
 </table>

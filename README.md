@@ -22,6 +22,13 @@ Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini pr
         <h3>02 - Cronômetro</h3>
         <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/cron%C3%B4metro"> Código</a></li><br>
         <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Cron%C3%B4metro.gif"><img src="./img/Cronômetro.gif" width="250px"></a>
+      </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>03 - Calculadora de IMC</h3>
+      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/calculando%20o%20imc"> Código</a></li><br>
+      <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Cron%C3%B4metro.gif"><img src="./img/Calculadora-de-imc.gif" width="250px"></a>
     </td>
   </tr>
   

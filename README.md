@@ -28,7 +28,7 @@ Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini pr
     <td>
       <h3>03 - Calculadora de IMC</h3>
       <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/calculando%20o%20imc"> Código</a></li><br>
-      <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Cron%C3%B4metro.gif"><img src="./img/Calculadora-de-imc.gif" width="250px"></a>
+      <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Calculadora-de-imc.gif"><img src="./img/Calculadora-de-imc.gif" width="250px"></a>
     </td>
   </tr>
   

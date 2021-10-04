@@ -47,6 +47,7 @@ h1{
     right: 0px;
     transition: transform 0.9s ease-out;
 }
+
 .msg::before{
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;

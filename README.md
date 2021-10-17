@@ -1,12 +1,13 @@
 # Mini Projetos com javascript puro
+  <img align="center" alt="gusta-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   Objetivo
 
-Não tem outra maneira para se aprender além de praticar, praticar e praticar.
+<p>Não tem outra maneira para se aprender além de praticar, praticar e praticar.</p>
 
-Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini projetos em JavaScript para eu poder práticar e também aprender ainda mais.
-<p>espero que gostem 😊👨‍💻</p>
+<p>Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini projetos em JavaScript para poder práticar e também aprender ainda mais.</p>
+<p>espero que gostem.👨‍💻</p>
 
-<table border="2">
+<table border="1">
   <tr>
     <td>
         <h3>01 - Lâmpada</h3>
@@ -38,3 +39,5 @@ Pensando nisso, eu criei este repositório com objetivo juntar ideias de mini pr
   </tr>
   
 </table>
+
+ ##

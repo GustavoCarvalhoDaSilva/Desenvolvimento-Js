@@ -11,24 +11,24 @@
   <tr>
     <td>
         <h3>01 - Lâmpada</h3>
-        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/001-l%C3%A2mpada"> Código</a></li><br>
+        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/01%20-%20L%C3%A2mpada"> Código</a></li><br>
         <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/L%C3%A2mpada-.gif"><img src="./img/Lâmpada-.gif" width="250px"></a>
     </td>
     <td>
         <h3>02 - Horário em tempo real</h3>
-        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/002-Hor%C3%A1rio"> Código</a></li><br>
+        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/02%20-%20Hor%C3%A1rio"> Código</a></li><br>
         <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Rel%C3%B3gio.gif"><img src="./img/Relógio.gif" width="250px"></a>
     </td>
        <td>
         <h3>03 - Cronômetro</h3>
-        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/cron%C3%B4metro"> Código</a></li><br>
+        <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/03%20-%20Cron%C3%B4metro"> Código</a></li><br>
         <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Cron%C3%B4metro.gif"><img src="./img/Cronômetro.gif" width="250px"></a>
       </td>
   </tr>
   <tr>
     <td>
       <h3>04 - Calculadora de IMC</h3>
-      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/calculando%20o%20imc"> Código</a></li><br>
+      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/04%20-%20Calculando%20o%20imc"> Código</a></li><br>
       <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Calculadora-de-imc.gif"><img src="./img/Calculadora-de-imc.gif" width="250px"></a>
     </td>
     <td>

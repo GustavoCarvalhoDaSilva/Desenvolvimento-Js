@@ -33,7 +33,7 @@
     </td>
     <td>
       <h3>05 - Player de música</h3>
-      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/PlayM%C3%BAsic">Código</a> </li><br>
+      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/05%20-%20PlayM%C3%BAsic">Código</a> </li><br>
       <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/GustaMusic.gif"> <img src="./img/GustaMusic.gif" width="250px"></a>
     </td>
   </tr>

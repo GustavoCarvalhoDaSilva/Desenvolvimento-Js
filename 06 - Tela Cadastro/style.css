@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+}
+
+.corpo{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #2274A5;
+    
+}
+.container{
+    margin-left: 250px;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+
+
+#container{
+    display: inline;
+    padding: 50px;
+}
+
+.container .form{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.h1{
+    text-align: center;
+    margin-bottom: 25px;
+    color: #fff;
+}
+.borda-lo{
+    border-bottom: 1px solid #fff;
+}
+.email, .password{
+    margin: 10px 0px;
+    width: 200px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: #2274A5;
+}
+.email::placeholder,
+.password::placeholder,
+.nome::placeholder,
+.sobrenome::placeholder,
+.email-cada::placeholder,
+.senha::placeholder{
+    color: #2274A5;
+}
+
+.container .botoes{
+    text-align: center;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn-enviar{
+    width: 214px;
+    background: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: #2274A5;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    transition: all 0.9s, transform 0.5s;
+}
+.btn-enviar:hover{
+    background: #2274A5;
+    transform: rotateX(360deg);
+    color: #fff;
+    border: 1px solid #fff;
+    
+}
+.label-login{
+    color: #fff;
+}
+.p-ou{
+    margin: 15px 0;
+    display: block;
+    color: #fff;
+}
+
+.btn-facebook,
+.btn-google{
+    width: 104px;
+    background: #fff;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: #2274A5;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn-facebook:hover, .btn-google:hover{
+    background: transparent;
+    color: #fff;
+
+}
+
+.container-2{
+    background: #F5F5F5;
+    height: 100%;
+    width: 50%;
+    border-top-left-radius: 25%;
+    /* border-bottom-left-radius: 25%; */
+}
+.registrar{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.registrar h1{
+    margin-bottom: 40px;
+    color: #2274A5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-registrar{
+    margin-top: 40px;
+    width: 350px;
+    background: #2274A5;
+    border: 1px solid #2274A5;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    transition: 0.9s, transform 0.5s;
+}
+.btn-registrar:hover{
+    border: 1px solid #2274A5;
+    background: none;
+    color: #2274a5;
+    transform: rotateX(360deg);
+}
+
+.btn-voltar{
+    margin-top: 40px;
+    width: 214px;
+    background: none;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    transition: 0.5s, transform 0.5s;
+}
+.btn-voltar:hover{
+    background: #fff;
+    color: #2274A5;
+    transform: rotateX(360deg);
+}
+
+
+/* animação */
+#btn{
+    display: inline;
+}
+#btn-login{
+    display: none;
+}
+
+@keyframes animar-fundo{
+    from{
+        transform: translateX(100%);
+        /* border-top-right-radius: 0; */
+        border-bottom-right-radius: 0;
+    }
+    to{
+        transform: translateX(-0%);
+        border-top-left-radius: 0;
+        /* border-bottom-left-radius: 0; */
+        /* border-top-right-radius: 25%; */
+        border-bottom-right-radius: 25%;
+    }
+}
+
+@keyframes voltar{
+    from{
+        transform: translateX(-100%);
+        border-top-left-radius: 0;
+        /* border-bottom-left-radius: 0; */
+        /* border-top-right-radius: 25%; */
+        border-bottom-right-radius: 25%;
+    }
+    to{
+        transform: translateX(0%);
+        border-top-left-radius: 25%;
+        /* border-bottom-left-radius: 25%; */
+        /* border-top-right-radius: 0; */
+        border-bottom-right-radius: 0;
+    }
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 230px;
+    display: none;
+    border: 3px solid #2274A5;
+    padding: 50px;
+}
+.nome,
+.sobrenome,
+.email-cada,
+.senha{
+    width: 200px;
+    margin: 10px 0;
+    color: #2274A5;
+    padding: 8px;
+    border: 1px solid #2274A5;
+    border-radius: 5px;
+    outline: none;
+}
+.h1-formulario{
+    text-align: center;
+    margin-bottom: 25px;
+    color: #2274A5;
+}
+.label,
+.h1-formulario{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2274A5;
+}
+.btn-cadastrar{
+    width: 218px;
+    background: transparent;
+    border: 1px solid #2274A5;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px;
+    color: #2274A5;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 0.3s, transform 0.5s;
+}
+
+.btn-cadastrar:hover{
+    color: #fff;
+    background: #2274a5;
+    transform: rotateX(360deg);
+}
+
+
+/* responsividade */
+#tela-1{
+    display: none;
+}
+
+#tela-2{
+    display: none;
+    justify-content: center;
+}
+
+
+
+
+@media (max-width: 1200px){
+    .container-2{
+        display: none;
+    }
+    .container{
+        margin-left: 25px;
+    }
+    .formulario{
+        margin-right: 25px;
+        border: none;
+    }
+    .corpo{
+        display: flex;
+        justify-content: space-around;
+    }
+    #tela-1{
+        display: flex;
+        justify-content: center;
+    }
+    @keyframes opacity {
+        from{
+            opacity: 0;
+        }   
+        to{
+            opacity: 1;
+        }
+    }
+
+}
+
+@media (max-width: 700px){
+    .corpo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .container{
+        margin-left: 0;
+    }
+    .formulario{
+        margin-right: 0;
+    }
+}
+
+@media (max-width : 400px){
+    #container{
+        padding: 25px;
+    }
+    .formulario{
+        padding: 25px;
+    }
+}

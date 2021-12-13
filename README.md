@@ -36,8 +36,14 @@
       <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/05%20-%20PlayM%C3%BAsic">Código</a> </li><br>
       <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/GustaMusic.gif"> <img src="./img/GustaMusic.gif" width="250px"></a>
     </td>
+    <td>
+      <h3>06 - Tela de Login</h3>
+      <li><a href="https://github.com/nomegustaa/Desenvolvimento-Js/tree/main/06%20-%20Tela%20Cadastro">Código</a> </li><br>
+      <a href="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/img/Tela-Login.gif"> <img src="./img/Tela-Login.gif" width="250px"></a>
+    </td>
+   
   </tr>
-  
+     
 </table>
 
  ##

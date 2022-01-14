@@ -1,5 +1,5 @@
 # Mini Projetos com JavaScript puro
-  <img align="center" alt="gusta-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="gusta-Js" src="https://github.com/nomegustaa/Desenvolvimento-Js/blob/main/gif-img/javaScript.gif" width="150px">
   Objetivo
 
 <p>Não tem outra maneira para se aprender além de praticar, praticar e praticar.</p>

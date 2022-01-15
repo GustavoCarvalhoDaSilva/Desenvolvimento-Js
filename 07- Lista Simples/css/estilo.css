@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Poppins:wght@100;500&display=swap');
+
+body{
+    background: #083D77;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.conteudo{
+    background: #fff;
+    margin: 40px 0;
+    padding: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+.titulo, .lista{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #083D77;
+}
+.texto-input{
+    margin: 0 0 20px 0;
+    padding: 10px;
+    border: 1px solid #083D77;
+    border-radius: 20px;
+    width: 350px;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+.botao-adicionar{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    width: 250px;
+    color: #fff;
+    background: #083D77;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.5s ease-in-out;
+}
+
+.botao-adicionar:hover{
+    background: #fff;
+    color: #083D77;
+    border: 1px solid #083D77;
+}
+
+@media (max-width : 500px){
+    .conteudo{
+        padding: 10px;
+        margin: 0;
+    }
+    .texto-input{
+        width: 200px;
+    }
+    .botao-adicionar{
+        width: 200px;
+    }
+}
